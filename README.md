@@ -162,6 +162,7 @@ We ❤️ our contributors! Here's how you can contribute:
 <a href="https://github.com/alex-streza/appli/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=alex-streza/appli" />
 </a>
+..
 
 ## Repo Activity
 
